@@ -12,3 +12,4 @@ C:\Users\user\Documents\Lab02-Frizen\obj\Debug\net10.0\refint\Lab02-Frizen.dll
 C:\Users\user\Documents\Lab02-Frizen\obj\Debug\net10.0\Lab02-Frizen.pdb
 C:\Users\user\Documents\Lab02-Frizen\obj\Debug\net10.0\Lab02-Frizen.genruntimeconfig.cache
 C:\Users\user\Documents\Lab02-Frizen\obj\Debug\net10.0\ref\Lab02-Frizen.dll
+C:\Users\user\Documents\Lab02-Frizen\obj\Debug\net10.0\Lab02-Frizen.sourcelink.json
