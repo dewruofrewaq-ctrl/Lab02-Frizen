@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Frizen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94ad56829df0661f1ec1e34a247c671ec98c1b69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7049d2540ab27a8b40caedd41e920f4269e23d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Frizen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Frizen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
