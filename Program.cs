@@ -16,7 +16,7 @@ Console.WriteLine("Переполнение byte");
 
 byte maxByte = 255;
 byte overflowed = (byte)(maxByte + 1);
-Console.WriteLine($"255+1 для byte = {overflowed}");*/
+Console.WriteLine($"255+1 для byte = {overflowed}");
 
 Console.WriteLine();
 Console.WriteLine("char");
@@ -86,4 +86,28 @@ string booksInput = Console.ReadLine();
 bool wasSuccessful = int.TryParse(booksInput, out int booksCount);
 
 Console.WriteLine($"Удалось преобразовать: {wasSuccessful}");
-Console.WriteLine($"Значение переменной booksCount: {booksCount}");
+Console.WriteLine($"Значение переменной booksCount: {booksCount}");*/
+
+
+Console.Write("Введите имя и фамилию: ");
+string name = Console.ReadLine();
+
+Console.Write("Введите группу: ");
+string groupName = Console.ReadLine();
+
+Console.Write("Введите год рождения: ");
+int birthYear = int.Parse(Console.ReadLine());
+
+Console.Write("Введите средний балл: ");
+double gpa = double.Parse(Console.ReadLine());
+
+Console.Write("Введите любимую букву: ");
+char favoriteLetter = Console.ReadLine()[0];
+
+Console.WriteLine();
+Console.WriteLine("Анкета");
+Console.WriteLine($"{name}, группа {groupName}");
+Console.WriteLine($"Год рождения: {birthYear} (в 2030 будет {2030 - birthYear} год)");
+Console.WriteLine($"Средний балл: {gpa}");
+Console.WriteLine($"Балл >= 4.0: {gpa >= 4.0}");
+Console.WriteLine($"Любимая буква: {favoriteLetter}");
